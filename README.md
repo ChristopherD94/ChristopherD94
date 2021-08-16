@@ -1,9 +1,7 @@
-Hey, I'm Christopher.
+Hey, my name is Christopher.
 
-Since I am looking for Jobs in Data Science, Data Engineering, AI I started to get used to Git and GitHub. 
-I am very much interested in pretty much any data-related work because analyzing data is so much fun and one of my biggest passions!
-A while back I started to work with tensorflow and keras to improve my knowledge in deep learning. Furthermore I am still practicing with AWS and GCP and constantly try to improve.
-I'd love to get in touch with new people and maybe even exchange knowledge on IT-related fields.
+I just started to work as a Machine Learning Engineer in August 2021. Throughout my studies I am very much passionate about data-related work. Data Science and Data Engineering including methods of Machine Learning as well as Deep Learning are considered to be some of my hobbies that I love to discuss and share. 
+I'd love to get in touch with new people and exchange knowledge on IT-related fields.
 
 Feel free to contact me on my e-mail-account: christopher-danz@web.de
 
